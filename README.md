@@ -7,7 +7,7 @@ Open Source only — every store I work on runs Magento Open Source.
 
 | Module | What it does | Install |
 | --- | --- | --- |
-| **[module-admin-branding](https://github.com/eBusiness360/module-admin-branding)** | A clean, modern Magento 2 admin: buttons, borders and separators restyled, configurable logo and favicon. No template overrides, uninstalls without a trace. | `composer require maxcode/module-admin-branding` |
+| **[module-admin-branding](https://github.com/eBusiness360/module-admin-branding)** | A clean, modern Magento 2 admin theme: buttons, borders and separators restyled, configurable logo and favicon. No template overrides, uninstalls without a trace. | `composer require maxcode/module-admin-branding` |
 | **[language-fr_fr](https://github.com/eBusiness360/language-fr_fr)** | French language pack add-on: translates what the community pack doesn't — the rest of the core and common third-party modules (Amasty, Mageplaza, Mirasvit, Fooman, Xtento…). | `composer require maxcode/language-fr_fr` |
 | **[module-translation-fixes](https://github.com/eBusiness360/module-translation-fixes)** | Makes translatable the strings Magento displays without `__()` or `$t()`. Ships no translation, works with any language pack. | `composer require maxcode/module-translation-fixes` |
 
